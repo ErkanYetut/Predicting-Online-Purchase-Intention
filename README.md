@@ -1,8 +1,7 @@
 # Predicting-Online-Purchase-Intention
 
 E-commerce has transformed the retail landscape
-by providing unparalleled convenience and accessibility. How-
-ever, low conversion rates remain a persistent challenge, driven
+by providing unparalleled convenience and accessibility. However, low conversion rates remain a persistent challenge, driven
 by complex customer behaviors that are difficult to interpret
 in digital environments. 
 
