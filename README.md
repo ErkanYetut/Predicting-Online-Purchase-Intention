@@ -5,7 +5,7 @@ by providing unparalleled convenience and accessibility. However, low conversion
 by complex customer behaviors that are difficult to interpret
 in digital environments. 
 
-Predicting online shoppers’ purchaseintentions is critical for addressing these challenges and improving conversion rates. This study focuses on the widely used
+Predicting online shoppers’ purchase intentions is critical for addressing these challenges and improving conversion rates. This study focuses on the widely used
 dataset introduced by Sakar et al., which reflects the imbalanced
 nature of purchase intention data. To address this imbalance,
 we employed the Synthetic Minority Oversampling Technique
