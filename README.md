@@ -79,7 +79,7 @@ The results show that **data preprocessing and proper evaluation metrics had a l
 
 The full project report describing the methodology, experiments, and results can be accessed here:
 
-[📄 View Project Report](report/Erkan_Yetut_Online_Purchase_Intention_Report.pdf)
+[View Project Report](report/Erkan_Yetut_Online_Purchase_Intention_Report.pdf)
 
 
 
