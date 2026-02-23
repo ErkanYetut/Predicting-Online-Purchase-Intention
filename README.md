@@ -9,7 +9,8 @@ This repository contains the implementation of a machine learning pipeline for p
 
 The project conducts a comparative empirical analysis of multiple classification models and focuses on proper preprocessing and evaluation for imbalanced datasets.
 
-📄 Detailed report: [Project Report (PDF)](report/Erkan_Yetut_Online_Purchase_Intention_Report.pdf)
+Detailed report: [Project Report (PDF)](./report/project_report.pdf)
+
 
 ---
 
