@@ -64,6 +64,17 @@ The results show that **data preprocessing and proper evaluation metrics had a l
 
 ---
 
+## How to Run
+
+1. Clone the repository
+2. Install requirements
+3. Run the notebook
+
+
+## Report
+A detailed report describing the methodology and experimental results is available in the repository.
+
+
 
 Predicting online shoppers’ purchase intentions is critical for addressing these challenges and improving conversion rates. This study focuses on the widely used
 dataset introduced by Sakar et al., which reflects the imbalanced
