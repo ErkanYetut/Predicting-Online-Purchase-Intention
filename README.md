@@ -76,6 +76,7 @@ A detailed report describing the methodology and experimental results is availab
 
 
 
+## Summary
 Predicting online shoppers’ purchase intentions is critical for addressing these challenges and improving conversion rates. This study focuses on the widely used
 dataset introduced by Sakar et al., which reflects the imbalanced
 nature of purchase intention data. To address this imbalance,
